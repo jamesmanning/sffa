@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+id: 54
+title: Overview
+date: 2015-10-30T17:46:52+00:00
+author: admin
+layout: page
+---
+For most visitors to this site, there's a fairly natural progression of the pages here to help guide you.
 
-You can use the [editor on GitHub](https://github.com/jamesmanning/sffa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  1. [explaining what food addiction is](what-is-food-addiction.md)
+  2. [evaluating whether you may have food addiction](do-you-have-food-addiction.md)
+  3. [explaining what soylent is](what-is-soylent.md)
+  4. [why soylent for treating food addiction?](soylent-for-treating-food-addiction.md)
+  5. [why exercise might be counterproductive](exercise-is-bad-for-weight-loss.md)
+  6. [Other tips and tricks](figure-out-what-works-for-you.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamesmanning/sffa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have [an about page](about.md) as well, but that's more about me than the idea, of course. :)
