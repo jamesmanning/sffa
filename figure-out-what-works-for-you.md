@@ -4,7 +4,7 @@ Think about what your average day is like.  Try to see what you can change to m
 
 Some recommendations from my experiences (but figure out what works for you!) includes:
 
-  1. Forget exercise &#8211; takes time, effort, often money, and drains your limited willpower.
+  1. Forget exercise: it takes time, effort, often money, and drains your limited willpower.
   2. If you eat when you're stressed or emotional, try to reduce your stress.  I started using meditation, but find what works for you.
   3. If you eat late at night, either try going to bed earlier, or try getting food further away (stay upstairs if you have a downstairs kitchen, for instance).
   4. If you have a food addiction, try quitting it "cold turkey" by switching to a 100% soylent diet (potentially switching over the course of a week to ease into it)
