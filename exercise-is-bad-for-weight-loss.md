@@ -7,7 +7,7 @@ _"Seriously?  Exercise can't be bad for weight loss! That's ridiculous!  It bu
 Strictly speaking, of course that's true.  The problem is that exercise ends up having secondary effects that make it counter-productive if your goal is significant weight loss.
 <figure style="width: 500px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/rcIgVGP.gif" alt="" width="500" height="269" /><figcaption class="wp-caption-text">Kevin seems incredulous</figcaption></figure> 
+<img class="" src="http://i.imgur.com/rcIgVGP.gif" alt="" width="500" height="269" /><figcaption>Kevin seems incredulous</figcaption></figure> 
 
 This certainly sounds like heresy if you look at the modern push for weight loss.  From gym memberships to wearable devices like FitBit, there is a lot of focus on exercise being the primary path to weight loss.
 
@@ -27,7 +27,7 @@ In other words:
 
 <figure style="width: 500px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/YsAtUMX.gif" alt="" width="500" height="281" /><figcaption class="wp-caption-text">Reason #37 why we want to preserve muscle while losing weight</figcaption></figure> 
+<img class="" src="http://i.imgur.com/YsAtUMX.gif" alt="" width="500" height="281" /><figcaption>Reason #37 why we want to preserve muscle while losing weight</figcaption></figure> 
 
 First, let's get this out of the way, since I'm sure there's a set of readers that are just waiting to yell at me if they got this far.
 
@@ -38,7 +38,7 @@ Exercise certainly has many benefits, and I'm not saying people should actively 
 <span style="text-decoration: underline;"><strong>Exercise distracts you from the food changes needed</strong></span>
 <figure style="width: 400px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/hZ9OXCF.gif" alt="" width="400" height="225" /><figcaption class="wp-caption-text">I'm not saying exercise is evil. He looks fabulous!</figcaption></figure> 
+<img class="" src="http://i.imgur.com/hZ9OXCF.gif" alt="" width="400" height="225" /><figcaption>I'm not saying exercise is evil. He looks fabulous!</figcaption></figure> 
 
 First and foremost is the problem of mindset.  People think of weight loss as involving 1) diet and 2) exercise.  The problem is that <a href="http://www.psychologicalscience.org/index.php/news/releases/beliefs-about-causes-of-obesity-may-impact-weight-eating-behavior.html" target="_blank">people that believe exercise is more important than diet are the ones that tend to be heavier and eat worse</a>.
 
@@ -51,7 +51,7 @@ First and foremost is the problem of mindset.  People think of weight loss as i
 Trying to lose significant amounts of weight can be a huge mental barrier, but it's that much worse when you're trying to add exercise as part of your weight loss regime.
 <figure style="width: 500px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/cWmaXbw.gif" alt="" width="500" height="281" /><figcaption class="wp-caption-text">Homer finds something more his speed</figcaption></figure> 
+<img class="" src="http://i.imgur.com/cWmaXbw.gif" alt="" width="500" height="281" /><figcaption>Homer finds something more his speed</figcaption></figure> 
 
 The only long-term way to maintain a healthy weight is keeping your daily caloric intake at the right levels. If you focus on exercise, even partially, you're distracting yourself from the far more important task of getting your food intake under control.
 
@@ -64,7 +64,7 @@ Now, when it comes to the actual food intake changes needed, that's a different 
 The most direct way exercise can be counter-productive to weight loss is in stimulating your appetite, making you want to eat more.
 <figure style="width: 245px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/Zl8ruHE.gif" alt="" width="245" height="163" /><figcaption class="wp-caption-text">Critical post-exercise training question</figcaption></figure> 
+<img class="" src="http://i.imgur.com/Zl8ruHE.gif" alt="" width="245" height="163" /><figcaption>Critical post-exercise training question</figcaption></figure> 
 
 While exercise tends to decrease appetite right after a workout, hours later there is an increase in appetite. This effect is more pronounced in women than men, although it still exists when men are maintaining a caloric deficit, which we'd want to do if we're trying to lose weight.
 
@@ -81,7 +81,7 @@ Since we want our focus to be on changing our food intake, the last thing we wan
 <span style="text-decoration: underline;"><strong>Exercise doesn't burn as many calories as you think</strong></span>
 <figure style="width: 500px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/R6XZymk.gif" alt="" width="500" height="263" /><figcaption class="wp-caption-text">The theory, which often doesn't work out in practice</figcaption></figure> 
+<img class="" src="http://i.imgur.com/R6XZymk.gif" alt="" width="500" height="263" /><figcaption>The theory, which often doesn't work out in practice</figcaption></figure> 
 
 The sad fact is that even decent amounts of exercise just don't burn enough calories to be meaningful for weight loss. This is usually stated as something like "You can't out-exercise a bad diet". Combined with the potential increase in appetite, people often overestimate how many calories they've burned in exercising and then negate it (or worse) by eating more afterwards.
 
@@ -94,7 +94,7 @@ This leads into the next issue:
 <span style="text-decoration: underline;"><strong>Exercise takes time</strong></span>
 <figure style="width: 500px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/UvcIwmB.gif" alt="" width="500" height="284" /><figcaption class="wp-caption-text">a modern conundrum</figcaption></figure> 
+<img class="" src="http://i.imgur.com/UvcIwmB.gif" alt="" width="500" height="284" /><figcaption>a modern conundrum</figcaption></figure> 
 
 The average weight-loss New Year's resolution involves getting a gym membership then some amount of time each week exercising there. The problem is that as a culture, we're pretty busy with things already, and it's going to be difficult to maintain anything that takes a significant amount of additional time each week to maintain.
 
@@ -107,12 +107,12 @@ Even ignoring those unexpected events, any exercise that's not fun for you is go
 Let's say you've started your New Year's weight-loss resolution and you're hitting the gym 3 times a week and getting in some cardio / lifting / whatever to burn calories and help you lose weight. You're able to keep it going 4 or 6 weeks and it starts to become a habit. Even though it takes a decent chunk of time out of your week, you're doing it and things are going fine.
 <figure style="width: 245px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/KcgbWfj.gif" alt="" width="245" height="155" /><figcaption class="wp-caption-text">treadmill claims poor mike wazowski as victim</figcaption></figure> 
+<img class="" src="http://i.imgur.com/KcgbWfj.gif" alt="" width="245" height="155" /><figcaption>treadmill claims poor mike wazowski as victim</figcaption></figure> 
 
 At some point, something's going to happen that will require you to skip at least a day or two. Sometimes it's an injury from the exercise itself (sprained ankle, knees hurting, pulled muscle, whatever). Sometimes it's an illness (came down with the flu or even a simple cold). Maybe it's even just a normal vacation (you're out of town, so you won't be doing your usual gym routine).
 <figure style="width: 493px" class="wp-caption alignnone">
 
-<img class="" src="http://i.imgur.com/BzUQVYB.gif" alt="" width="493" height="271" /><figcaption class="wp-caption-text">maybe someone at Pixar agrees with me?</figcaption></figure> 
+<img class="" src="http://i.imgur.com/BzUQVYB.gif" alt="" width="493" height="271" /><figcaption>maybe someone at Pixar agrees with me?</figcaption></figure> 
 
 Whatever it is, as creatures of habit, humans can find it difficult to get back into maintaining the habit of exercise once something's interrupted it. Your first few days after an illness you may still not 'feel up to' hitting the gym and decide to re-start your routines later. After an injury you may give yourself a little more time to recover in the hopes of preventing the injury from reoccurring.
 
@@ -135,8 +135,8 @@ The problem comes when you view exercise as a means, especially as a primary mea
 
 <figure style="width: 310px" class="wp-caption alignnone">
     <img src="http://i.imgur.com/vOvcMN4.gif" alt="" width="310" height="175" />
-    <figcaption class="wp-caption-text">cat tax if you're a cat person</figcaption>
+    <figcaption>cat tax if you're a cat person</figcaption>
 </figure> 
 
 
-<figure style="width: 500px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/ncRVhKj.gif" alt="" width="500" height="317" /><figcaption class="wp-caption-text">dog tax if you're a dog person</figcaption></figure>
+<figure style="width: 500px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/ncRVhKj.gif" alt="" width="500" height="317" /><figcaption>dog tax if you're a dog person</figcaption></figure>
