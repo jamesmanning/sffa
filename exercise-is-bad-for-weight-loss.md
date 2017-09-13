@@ -120,6 +120,11 @@ Because of this, you need to treat your daily willpower as the finite resource t
 
 As stated first, exercise does certainly have physical and mental benefits to it, and I would never say people should actively avoid it or stop doing whatever they're currently doing.
 
-The problem comes when you view exercise as a means, especially as a primary means, to weight loss. It's just a bad focus for your weight loss efforts.  Focus on changing your food intake and get down to a healthy body fat percentage.  Then once you're down there you can look at exercise as your primary tool: to get fit!<figure style="width: 310px" class="wp-caption alignnone">
+The problem comes when you view exercise as a means, especially as a primary means, to weight loss. It's just a bad focus for your weight loss efforts.  Focus on changing your food intake and get down to a healthy body fat percentage.  Then once you're down there you can look at exercise as your primary tool: to get fit!
 
-<img src="http://i.imgur.com/vOvcMN4.gif" alt="" width="310" height="175" /><figcaption class="wp-caption-text">cat tax if you're a cat person</figcaption></figure> <figure style="width: 500px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/ncRVhKj.gif" alt="" width="500" height="317" /><figcaption class="wp-caption-text">dog tax if you're a dog person</figcaption></figure>
+<figure style="width: 310px" class="wp-caption alignnone">
+    <img src="http://i.imgur.com/vOvcMN4.gif" alt="" width="310" height="175" />
+    <figcaption class="wp-caption-text">cat tax if you're a cat person</figcaption>
+</figure> 
+
+<figure style="width: 500px" class="wp-caption alignnone"><img class="" src="http://i.imgur.com/ncRVhKj.gif" alt="" width="500" height="317" /><figcaption class="wp-caption-text">dog tax if you're a dog person</figcaption></figure>
