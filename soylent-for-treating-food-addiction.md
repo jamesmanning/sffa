@@ -2,7 +2,8 @@ So now we know what food addiction is and what soylent is, so why does this end 
 
 <span style="text-decoration: underline;"><strong>Cost</strong></span>
 
-Let's get this out of the way.<figure style="width: 334px" class="wp-caption alignnone">
+Let's get this out of the way.
+<figure style="width: 334px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/MvfbZwQ.gif" alt="cute cat gifs, couldn't resist" width="334" height="310" /><figcaption class="wp-caption-text">Mine!</figcaption></figure> 
 
@@ -14,7 +15,8 @@ One approach that is successful for many people is to try samples from many of t
 
 I personally would recommend sticking with a commercial option if you can afford it at all, since I believe the convenience of soylent is a significant win, especially in terms of daily food choices.  If you're looking at having to order, measure, mix, etc. your own powder, then the temptation to just skip that effort and eat some other kind of food will be there, and I believe that's counter-productive, especially early on in your efforts.
 
-<span style="text-decoration: underline;"><strong>Remove the decision on what to eat</strong></span><figure style="width: 500px" class="wp-caption alignnone">
+<span style="text-decoration: underline;"><strong>Remove the decision on what to eat</strong></span>
+<figure style="width: 500px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/fShuXJL.gif" alt="" width="500" height="315" /><figcaption class="wp-caption-text">decisions, decisions</figcaption></figure> 
 
@@ -26,25 +28,30 @@ As Dr. Baumeister's research has shown us, [willpower is a limited resource](ht
 
 That's where soylent can be a big win for treating food addiction.  You don't have to choose which food to eat anymore, as you're choosing not to eat 'normal' food anymore and instead something that's more akin to nutritional fuel for your body.  You don't want to have to drink something disgusting, of course, but food's primary purpose is to fuel your body, and you can focus on that and avoid food-as-pleasure which can be so problematic with food addiction.
 
-<span style="text-decoration: underline;"><strong>Save time and effort</strong></span><figure style="width: 448px" class="wp-caption alignnone">
+<span style="text-decoration: underline;"><strong>Save time and effort</strong></span>
+<figure style="width: 448px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/qneYArY.gif" alt="" width="448" height="316" /><figcaption class="wp-caption-text">less effort? sign me up!</figcaption></figure> 
 
-Once you're consuming exclusively soylent, preparing your day's food is either nothing (if you choose a pre-mixed drink) or mixing powder and water (and maybe another ingredient or two depending on the soylent you choose) into a pitcher and mixing.  This typically means you only have to prepare your 'food' once during the day (some do it right before they go to bed and leave it in the fridge overnight, others do it in the morning), and that preparation is fast and simple.<figure style="width: 500px" class="wp-caption alignnone">
+Once you're consuming exclusively soylent, preparing your day's food is either nothing (if you choose a pre-mixed drink) or mixing powder and water (and maybe another ingredient or two depending on the soylent you choose) into a pitcher and mixing.  This typically means you only have to prepare your 'food' once during the day (some do it right before they go to bed and leave it in the fridge overnight, others do it in the morning), and that preparation is fast and simple.
+<figure style="width: 500px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/f7XkJJl.gif" alt="" width="500" height="260" /><figcaption class="wp-caption-text">even with bacon, grocery shopping isn't fun</figcaption></figure> 
 
-This means no having to go grocery shopping, which itself takes willpower and is often a source of poor food choice since we might be doing it toward the end of the day when our willpower reserves are low, or worse while we're hungry and our brain is driving us to choose foods that aren't as healthy as they could be.  As much as possible, you want to remove grocery shopping as a task you need to do, since it will either lead to poor food choices coming into your home, and/or drain your willpower if you're able to get out of the store will only healthy food selections.<figure style="width: 500px" class="wp-caption alignnone">
+This means no having to go grocery shopping, which itself takes willpower and is often a source of poor food choice since we might be doing it toward the end of the day when our willpower reserves are low, or worse while we're hungry and our brain is driving us to choose foods that aren't as healthy as they could be.  As much as possible, you want to remove grocery shopping as a task you need to do, since it will either lead to poor food choices coming into your home, and/or drain your willpower if you're able to get out of the store will only healthy food selections.
+<figure style="width: 500px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/iQhrJPI.gif" alt="" width="500" height="295" /><figcaption class="wp-caption-text">cooking can be hard, let's skip it</figcaption></figure> 
 
-Since our soylent preparation is 'mix powder and water' or similar, you're removing another source of time and effort in cooking.  Many people dislike cooking and would look forward to the option of not having to cook anymore. For the others that actively enjoy cooking, it still consumes significant time and energy on it.  There are pots and pans to scrub, ovens/stoves to use then clean, dishes for holding your food after cooking, and plates and utensils to use then wash.  By replacing normal 'food' with soylent, you get to eliminate all of those.  Most people end up using a pitcher to mix and hold their days' worth of soylent and then a few glasses for drinking out of the pitcher throughout the day.  Those that really hate cleaning may just use the pitcher and drink directly from it when they're hungry.<figure style="width: 245px" class="wp-caption alignnone">
+Since our soylent preparation is 'mix powder and water' or similar, you're removing another source of time and effort in cooking.  Many people dislike cooking and would look forward to the option of not having to cook anymore. For the others that actively enjoy cooking, it still consumes significant time and energy on it.  There are pots and pans to scrub, ovens/stoves to use then clean, dishes for holding your food after cooking, and plates and utensils to use then wash.  By replacing normal 'food' with soylent, you get to eliminate all of those.  Most people end up using a pitcher to mix and hold their days' worth of soylent and then a few glasses for drinking out of the pitcher throughout the day.  Those that really hate cleaning may just use the pitcher and drink directly from it when they're hungry.
+<figure style="width: 245px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/DkMqwq5.gif" alt="" width="245" height="130" /><figcaption class="wp-caption-text">let's switch to something we like instead</figcaption></figure> 
 
 Lots of other approaches to changing your food intake will give you different foods to eat, different recipes to learn and make, and result in much more time and energy needed than just continuing to cook and eat the things you already do. Changing your food intake is challenging enough as it is, and you want to try switching to something that makes as many things easier as possible.
 
-<span style="text-decoration: underline;"><strong>No need to track calories</strong></span><figure style="width: 350px" class="wp-caption alignnone">
+<span style="text-decoration: underline;"><strong>No need to track calories</strong></span>
+<figure style="width: 350px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/KJtYDCA.gif" alt="" width="350" height="184" /><figcaption class="wp-caption-text">math is hard, let's drink soylent!</figcaption></figure> 
 
