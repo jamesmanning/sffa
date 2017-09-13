@@ -6,7 +6,7 @@ First, there's [Soylent](https://www.soylent.com/) (with a capital S), the offi
 
 Then, there's the fictional Soylent that it's named after. While many people assume it's named after [the Soylent Green product in the movie of the same name](https://en.wikipedia.org/wiki/Soylent_Green). However, it's [actually named after the Soylent product in the book Make Room! Make Room!](https://faq.soylent.com/hc/en-us/articles/201541809-Why-is-it-named-Soylent-)
 
-Then there's the term &#8220;soylent&#8221; (with a lower-case s).  As a company, Rosa Labs is ok with, even encourages, [do-it-yourself (DIY) versions to be created by others](https://diy.soylent.com/). Rather than try to control the term &#8220;soylent&#8221;, they went ahead and embraced soylent being a [generic trademark](https://en.wikipedia.org/wiki/Generic_trademark), so  when talking about similar products people don't have to use a different term like &#8220;nutritionally complete meal replacement&#8221; or the like.
+Then there's the term "soylent" (with a lower-case s).  As a company, Rosa Labs is ok with, even encourages, [do-it-yourself (DIY) versions to be created by others](https://diy.soylent.com/). Rather than try to control the term "soylent", they went ahead and embraced soylent being a [generic trademark](https://en.wikipedia.org/wiki/Generic_trademark), so  when talking about similar products people don't have to use a different term like "nutritionally complete meal replacement" or the like.
 
 <span style="text-decoration: underline;"><strong>Concept</strong></span>
 

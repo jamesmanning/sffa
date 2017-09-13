@@ -48,7 +48,7 @@ Lots of other approaches to changing your food intake will give you different fo
 
 <img class="" src="http://i.imgur.com/KJtYDCA.gif" alt="" width="350" height="184" /><figcaption class="wp-caption-text">math is hard, let's drink soylent!</figcaption></figure> 
 
-Typically when you're wanting to control the number of calories you're consuming in a day, you're faced with having to track the calories in the things you eat. Even in the best case where everything you eat has a clearly labeled number of calories, it's still a hassle to do so.  Even the things that have labeled number of calories &#8220;per serving&#8221; can be problematic since you have to try and measure out the number of servings you're consuming, which can be tricky for many items.  Combine this with foods that aren't as clearly labeled for their calories (like a typical meal at a sit-down restaurant) and tracking calories can be quite error-prone.
+Typically when you're wanting to control the number of calories you're consuming in a day, you're faced with having to track the calories in the things you eat. Even in the best case where everything you eat has a clearly labeled number of calories, it's still a hassle to do so.  Even the things that have labeled number of calories "per serving" can be problematic since you have to try and measure out the number of servings you're consuming, which can be tricky for many items.  Combine this with foods that aren't as clearly labeled for their calories (like a typical meal at a sit-down restaurant) and tracking calories can be quite error-prone.
 
 A study published in The New England Journal of Medicine really highlights this extremely well:
 

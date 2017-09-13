@@ -2,7 +2,7 @@ _**I know what you're thinking**_
 
 ![](http://i.imgur.com/Nrx2pri.gif)
 
-_&#8220;Seriously?  Exercise can't be bad for weight loss! That's ridiculous!  It burns calories, and more calories burned means more weight lost!&#8221;_
+_"Seriously?  Exercise can't be bad for weight loss! That's ridiculous!  It burns calories, and more calories burned means more weight lost!"_
 
 Strictly speaking, of course that's true.  The problem is that exercise ends up having secondary effects that make it counter-productive if your goal is significant weight loss.<figure style="width: 500px" class="wp-caption alignnone">
 
@@ -76,7 +76,7 @@ Since we want our focus to be on changing our food intake, the last thing we wan
 
 <img class="" src="http://i.imgur.com/R6XZymk.gif" alt="" width="500" height="263" /><figcaption class="wp-caption-text">The theory, which often doesn't work out in practice</figcaption></figure> 
 
-The sad fact is that even decent amounts of exercise just don't burn enough calories to be meaningful for weight loss. This is usually stated as something like &#8220;You can't out-exercise a bad diet&#8221;. Combined with the potential increase in appetite, people often overestimate how many calories they've burned in exercising and then negate it (or worse) by eating more afterwards.
+The sad fact is that even decent amounts of exercise just don't burn enough calories to be meaningful for weight loss. This is usually stated as something like "You can't out-exercise a bad diet". Combined with the potential increase in appetite, people often overestimate how many calories they've burned in exercising and then negate it (or worse) by eating more afterwards.
 
 You can see an example of some calorie burn rates for an hour of different exercises in <a href="http://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/exercise/art-20050999?pg=2" target="_blank">this article on the Mayo Clinic site</a>.
 

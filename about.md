@@ -12,7 +12,7 @@ Conceptually, soylent is a great food replacement for anyone, but what I've foun
 
 I'm not a doctor, and my thoughts and these pages are from my experiences and those of others I've talked with that have had a similar experience.  As much as possible, I will cite research studies when my efforts were driven based on them.
 
-In my experience, food addiction can be thought of as &#8220;alcoholism, but with food instead of alcohol&#8221;.  I think it's a useful analogy because of how (relatively) well known alcoholism is.  For instance, I believe food addiction to be something you have to deal with the rest of your life, just like an alcoholic will do the same.  Just like with alcoholism, you can certainly relapse.
+In my experience, food addiction can be thought of as "alcoholism, but with food instead of alcohol".  I think it's a useful analogy because of how (relatively) well known alcoholism is.  For instance, I believe food addiction to be something you have to deal with the rest of your life, just like an alcoholic will do the same.  Just like with alcoholism, you can certainly relapse.
 
 Also like with alcoholism, your best bet isn't to try and limit your consumption to some small amount, but instead to stay off of it completely.  While there have certainly been medical interventions for some people that have required such situations (feeding by a tube, for instance), with the soylent options available today, it's now simple, easy, and cost-effective to use a soylent to finally stop eating.
 
