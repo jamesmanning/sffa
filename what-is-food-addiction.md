@@ -1,4 +1,4 @@
-One of the most common initial reactions to the concept/phrase of &#8216;food addiction' is rejecting it as a made-up concept. This is somewhat understandable given the number of new disorders that have come about in recent history.  Having an addictive reaction to food can seem difficult to believe compared to things like alcohol, smoking, heroin, cocaine, etc.
+One of the most common initial reactions to the concept/phrase of 'food addiction' is rejecting it as a made-up concept. This is somewhat understandable given the number of new disorders that have come about in recent history.  Having an addictive reaction to food can seem difficult to believe compared to things like alcohol, smoking, heroin, cocaine, etc.
 
 But as we gather more data, especially focused on neural reactions, we're [finding food to have similar responses to abused substances](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3980851/).
 
@@ -8,7 +8,7 @@ As Michael Moss showed us in his amazing February 2013 NY Times article, [the ma
 
 Make no mistake: [modern processed food is very much an engineered product](http://www.cbc.ca/m/news/health/food-cravings-engineered-by-industry-1.1395225).
 
-> &#8220;[Salt](http://www.cbc.ca/news/health/story/2009/07/23/f-salt-reducing-health-risks.html), [sugar](http://www.cbc.ca/news/health/story/2012/06/19/f-10-sugar-facts.html) and [fat](http://www.cbc.ca/news/health/story/2013/02/08/oil-fat-omega-diet-heart.html) are the three pillars of the processed food industry,&#8221; Michael Moss said. &#8220;And while the industry hates the world &#8216;addiction' more than any other word, the fact of the matter is, their research has shown them that when they hit the very perfect amounts of each of those ingredients … they will have us buy more, eat more.&#8221;
+> &#8220;[Salt](http://www.cbc.ca/news/health/story/2009/07/23/f-salt-reducing-health-risks.html), [sugar](http://www.cbc.ca/news/health/story/2012/06/19/f-10-sugar-facts.html) and [fat](http://www.cbc.ca/news/health/story/2013/02/08/oil-fat-omega-diet-heart.html) are the three pillars of the processed food industry,&#8221; Michael Moss said. &#8220;And while the industry hates the world 'addiction' more than any other word, the fact of the matter is, their research has shown them that when they hit the very perfect amounts of each of those ingredients … they will have us buy more, eat more.&#8221;
 
 And this starts showing us exactly why food addiction is such a recent phenomenon.  The addictive nature of food is something that's only been really maximized and engineered in recent history.  People that would have been food addicts 50 years ago weren't exposed to the kinds of foods we get exposed to now, so they didn't suffer from the addictions we do now.
 

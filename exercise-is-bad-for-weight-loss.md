@@ -104,7 +104,7 @@ At some point, something's going to happen that will require you to skip at leas
 
 <img class="" src="http://i.imgur.com/BzUQVYB.gif" alt="" width="493" height="271" /><figcaption class="wp-caption-text">maybe someone at Pixar agrees with me?</figcaption></figure> 
 
-Whatever it is, as creatures of habit, humans can find it difficult to get back into maintaining the habit of exercise once something's interrupted it. Your first few days after an illness you may still not &#8216;feel up to' hitting the gym and decide to re-start your routines later. After an injury you may give yourself a little more time to recover in the hopes of preventing the injury from reoccurring.
+Whatever it is, as creatures of habit, humans can find it difficult to get back into maintaining the habit of exercise once something's interrupted it. Your first few days after an illness you may still not 'feel up to' hitting the gym and decide to re-start your routines later. After an injury you may give yourself a little more time to recover in the hopes of preventing the injury from reoccurring.
 
 Whatever the situation, any habit like exercise, especially one that takes significant time and effort, will be difficult to get back into once something has happened to interrupt your routine. It's just simple human nature, and if you're already feeling bad from an illness or injury, adding guilt on top of that from missing your gym sessions is only going to make you feel worse.
 

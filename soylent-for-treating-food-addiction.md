@@ -24,13 +24,13 @@ As Dr. Baumeister's research has shown us, [willpower is a limited resource](ht
 > 
 > The authors conclude that the executive component of the self—in particular, inhibition—relies on a limited, consumable resource [ [link](http://psycnet.apa.org/journals/bul/126/2/247/) ]
 
-That's where soylent can be a big win for treating food addiction.  You don't have to choose which food to eat anymore, as you're choosing not to eat &#8216;normal' food anymore and instead something that's more akin to nutritional fuel for your body.  You don't want to have to drink something disgusting, of course, but food's primary purpose is to fuel your body, and you can focus on that and avoid food-as-pleasure which can be so problematic with food addiction.
+That's where soylent can be a big win for treating food addiction.  You don't have to choose which food to eat anymore, as you're choosing not to eat 'normal' food anymore and instead something that's more akin to nutritional fuel for your body.  You don't want to have to drink something disgusting, of course, but food's primary purpose is to fuel your body, and you can focus on that and avoid food-as-pleasure which can be so problematic with food addiction.
 
 <span style="text-decoration: underline;"><strong>Save time and effort</strong></span><figure style="width: 448px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/qneYArY.gif" alt="" width="448" height="316" /><figcaption class="wp-caption-text">less effort? sign me up!</figcaption></figure> 
 
-Once you're consuming exclusively soylent, preparing your day's food is either nothing (if you choose a pre-mixed drink) or mixing powder and water (and maybe another ingredient or two depending on the soylent you choose) into a pitcher and mixing.  This typically means you only have to prepare your &#8216;food' once during the day (some do it right before they go to bed and leave it in the fridge overnight, others do it in the morning), and that preparation is fast and simple.<figure style="width: 500px" class="wp-caption alignnone">
+Once you're consuming exclusively soylent, preparing your day's food is either nothing (if you choose a pre-mixed drink) or mixing powder and water (and maybe another ingredient or two depending on the soylent you choose) into a pitcher and mixing.  This typically means you only have to prepare your 'food' once during the day (some do it right before they go to bed and leave it in the fridge overnight, others do it in the morning), and that preparation is fast and simple.<figure style="width: 500px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/f7XkJJl.gif" alt="" width="500" height="260" /><figcaption class="wp-caption-text">even with bacon, grocery shopping isn't fun</figcaption></figure> 
 
@@ -38,7 +38,7 @@ This means no having to go grocery shopping, which itself takes willpower and is
 
 <img class="" src="http://i.imgur.com/iQhrJPI.gif" alt="" width="500" height="295" /><figcaption class="wp-caption-text">cooking can be hard, let's skip it</figcaption></figure> 
 
-Since our soylent preparation is &#8216;mix powder and water' or similar, you're removing another source of time and effort in cooking.  Many people dislike cooking and would look forward to the option of not having to cook anymore. For the others that actively enjoy cooking, it still consumes significant time and energy on it.  There are pots and pans to scrub, ovens/stoves to use then clean, dishes for holding your food after cooking, and plates and utensils to use then wash.  By replacing normal &#8216;food' with soylent, you get to eliminate all of those.  Most people end up using a pitcher to mix and hold their days' worth of soylent and then a few glasses for drinking out of the pitcher throughout the day.  Those that really hate cleaning may just use the pitcher and drink directly from it when they're hungry.<figure style="width: 245px" class="wp-caption alignnone">
+Since our soylent preparation is 'mix powder and water' or similar, you're removing another source of time and effort in cooking.  Many people dislike cooking and would look forward to the option of not having to cook anymore. For the others that actively enjoy cooking, it still consumes significant time and energy on it.  There are pots and pans to scrub, ovens/stoves to use then clean, dishes for holding your food after cooking, and plates and utensils to use then wash.  By replacing normal 'food' with soylent, you get to eliminate all of those.  Most people end up using a pitcher to mix and hold their days' worth of soylent and then a few glasses for drinking out of the pitcher throughout the day.  Those that really hate cleaning may just use the pitcher and drink directly from it when they're hungry.<figure style="width: 245px" class="wp-caption alignnone">
 
 <img class="" src="http://i.imgur.com/DkMqwq5.gif" alt="" width="245" height="130" /><figcaption class="wp-caption-text">let's switch to something we like instead</figcaption></figure> 
 
@@ -62,9 +62,9 @@ While we're focusing on getting a handle on our caloric intake, it's important t
 
 By using soylent, we can both get an exact number of calories for us to consume \*and\* a complete day of nutrition.  Since your existing food intake per day is likely not nutritionally complete, you can also improve your nutrition at the same time you're controlling your intake of calories.
 
-<span style="text-decoration: underline;"><strong>Can get rid of &#8216;normal' food</strong></span>
+<span style="text-decoration: underline;"><strong>Can get rid of 'normal' food</strong></span>
 
-If you live by yourself or you can get the others that live with you on board, going soylent-only can be a huge win against temptation.  Since it provides all the nutrition you need, you can (and, I believe, should) get rid of all the &#8216;normal' food in your place, especially the ones that are more difficult for you to resist.
+If you live by yourself or you can get the others that live with you on board, going soylent-only can be a huge win against temptation.  Since it provides all the nutrition you need, you can (and, I believe, should) get rid of all the 'normal' food in your place, especially the ones that are more difficult for you to resist.
 
 Now, there is still going to be the temptation to hop in the car and drive somewhere to grab some food that's not great for you, but by making your easiest option also a healthy one, you significantly increase your chances of sticking with soylent.
 

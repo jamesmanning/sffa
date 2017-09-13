@@ -14,7 +14,7 @@ There have been meal-replacement products around far longer than the recent crop
 
 Existing meal replacement products tended to be designed for replacing one or maybe two meals a day.  They often had too few calories and too much sugar to be considered nutritionally complete on their own, and for that target use case, they were fine.
 
-The &#8216;soylent' concept differs in it first-and-foremost being a viable choice as your sole source of nutrition. Not each of them will target the same set of macronutrients or micronutrients, but they can absolutely be the only thing you ingest each day to get you all the protein, fat, carbohydrates, vitamins, and minerals you need.
+The 'soylent' concept differs in it first-and-foremost being a viable choice as your sole source of nutrition. Not each of them will target the same set of macronutrients or micronutrients, but they can absolutely be the only thing you ingest each day to get you all the protein, fat, carbohydrates, vitamins, and minerals you need.
 
 They intentionally differ on things like macronutrient ratios.  The ones I prefer for myself, for instance, are [ketogenic](https://en.wikipedia.org/wiki/Ketogenic_diet) with very few carbohydrates, adequate protein, and high fat content, as those have helped me preserve muscle tissue during my weight loss.
 
