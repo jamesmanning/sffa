@@ -1,3 +1,5 @@
 url: http://soylentforfoodaddiction.com
 name: Soylent for Food Addiction
 description: ""
+
+theme: jekyll-theme-cayman
